@@ -518,7 +518,7 @@ Potential future improvements include:
 
 ## 👨‍💻 Author
 
-**Vivek Pal**
+**Shivakant Prajapati**
 
 B.Tech in Computer Science & Engineering  
 Specialization: Artificial Intelligence & Machine Learning
